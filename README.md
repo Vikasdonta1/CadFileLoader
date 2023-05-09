@@ -15,7 +15,7 @@
     npm i # with npm
     ```
 
-2. Start the example
+2. Start the Project
 
     ```sh
     yarn start # with yarn
